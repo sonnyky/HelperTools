@@ -1,3 +1,6 @@
+#### Building
+A CMake file is provided. Adjust the path parameters to match your environment and build
+
 #### Usage
 * Launch sleep_signal_osc.exe
 * Use Task Scheduler to schedule the execution of stop.bat
