@@ -21,8 +21,8 @@ if args.images and args.video:
 
 class TargetFormat(object):
     GIF = "gif"
-    MP4 = "mp4"
-    AVI = "avi"
+    MP4 = "mp4" #currently not supported. TODO
+    AVI = "avi" #currently not supported. TODO
 
 
 def convertFile(inputpath, targetFormat):
